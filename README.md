@@ -12,4 +12,4 @@ The notebook includes:
 2. Follow the provided code to replicate the results or extend the solution.
 
 ## Author
-Prepared as part of the Zubale Data Engineer Assessment.
+Prepared by Andres Montes de Oca, as part of the Zubale Data Engineer Assessment.
